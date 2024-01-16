@@ -1,11 +1,15 @@
-# typescript-sandbox
+He clonado el repositorio para editar los archivos y comenzar el proyecto.
 
-Para la parte de cada módulo en la que te planteamos ejercicios con JavaScript puedes usar este sandbox.
+He instalado las dependencias y he ejecutado el proyecto con:
+    npm install
+    npm run dev
 
-Pasos:
+Entro en la dirección http://localhost:5173/ para poder visualizar mi proyecto mientras lo desarrollo.
 
-- Clonate el proyecto.
-- Instala las dependencias con `npm install`.
-- Ejecuta el sandbox con `npm run dev`.
-- Abre el navegador en `http://localhost:5173/` (si ese puerto no te funciona, mira en la consola donde has hecho el build, puede que este ocupado y se haya abierto en otro puerto).
-- Puedes empezar a meter tu código en el fichero:
+He modificado el archivo index.html para que se muestre el enunciado del ejercicio y la solución.
+He utilizado encabezados h1 y h2 y una lista.
+He creado otro contenedor con una id.
+
+He modificado el archivo style.css para que los elementos de la lista y el nuevo contenedor se ajusten a los valores que quiero para que se visualicen mejor.
+
+He modificado el archivo main.ts para mostrar por consola la solución.
